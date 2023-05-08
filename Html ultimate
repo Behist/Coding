@@ -1,0 +1,43 @@
+<h1> Courses taught</h1>
+    <ol type="a">
+
+        <li>Web Programming</li>
+        <li>Discrete Sturectures</li>
+        <li>Electronic Commerce</li>
+        <li>Database Systems</li>
+        <li>Introduction to COmputing</li>
+        
+    </ol>
+    <h1>Nested List Example</h1>
+     <ol type="I">
+        <li>Web Programming
+            <ul>
+                <ul>
+                    <li>Autumn 2014
+                        <ol start="3" type="I">
+                              <li>
+                            September - January
+                            </li>
+                <li>
+                    February - June
+                </li>
+                        </ol>
+                    </li>
+
+                    <li>Spring 2015</li>
+                </ul>
+              
+            </ul>
+        </li>
+        <li>Discrete Structures
+            <ul>
+                <li>
+                    Summer 2014
+                </li>
+            </ul>
+        </li>
+        <li>Electronic Commerce</li>
+        <li>Database System</li>
+        <li>Intoruction to Computing</li>
+
+     </ol>
